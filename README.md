@@ -64,7 +64,7 @@
 ###
 
 
-![swaparup36's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swaparup36&theme=dark&show_icons=true&hide_border=true&layout=compact)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/swaparup36?cardType=octocat&theme=onedark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![swaparup36's Streak](https://github-readme-streak-stats.herokuapp.com/?user=swaparup36&theme=dark&hide_border=true)
 
